@@ -8,7 +8,7 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 ### Blog
-The entkir
+The full project can be seen on my blog here
 
 
 
