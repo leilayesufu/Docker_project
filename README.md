@@ -8,7 +8,7 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 ### Blog
-The full project can be seen on my blog here
+The full project can be seen on my blog https://leilayesufu.hashnode.dev/dockerize-a-nodejs-and-mongodb-application-and-push-it-to-amazon-ecr
 
 
 
